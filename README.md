@@ -60,7 +60,8 @@ npm run dev
 ----
 
 👨‍🌾 Author
-Han-eum (한음) 
-Developer Job Seeker
+gukbo (한음) 
 
-"3초 안에 이해되는 직관적인 코드를 지향합니다."
+
+<img width="1030" height="932" alt="image" src="https://github.com/user-attachments/assets/7744a344-7db1-4bfa-af5d-4367bcfd933d" />
+
